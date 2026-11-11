@@ -1,0 +1,37 @@
+[
+ {
+  "username": "tompearl'sdiciple",
+  "name": "Jonathan",
+  "salt": "a9e110fc9c5a27d960bc5fc36e917ac2",
+  "ph": "d210c808c6472b8a1af5a735d08f6a35b3c8b976386cd77fb964304f2c500fbf",
+  "it": 100000
+ },
+ {
+  "username": "weeshe722",
+  "name": "Darwish",
+  "salt": "e5708d48dbc437e430fcd3b993bca867",
+  "ph": "7ee612373f99d0b7056a101a55bdfe7532104b5419c4713a9848190f98baba9f",
+  "it": 100000
+ },
+ {
+  "username": "sduo",
+  "name": "Kamil",
+  "salt": "ecde95cfe9923087f32a407d6b0b1774",
+  "ph": "8f18d9f1c7062baab6b42f8876e71d95643394b81eb4cabac931286fd16fc7cc",
+  "it": 100000
+ },
+ {
+  "username": "Mango",
+  "name": "Alan",
+  "salt": "3920a429074509490571f6ff33bd4e39",
+  "ph": "cbaf5685b1c67c7cc78a330d577b646d4c9b9ba0f15e925dcc1b734e60380a4e",
+  "it": 100000
+ },
+ {
+  "username": "m878",
+  "name": "Michal",
+  "salt": "3bf0df6e1d15740754804da6f80efa83",
+  "ph": "3b446e42b0719e4c74eeb1e22ebd923fac5531a2782c1f1cf58c6013fb9987d2",
+  "it": 100000
+ }
+]
